@@ -1,4 +1,4 @@
-A simple git credential helper backed by `pass`.
+A simple git credential helper backed by [`pass`](https://www.passwordstore.org/).
 
 Put the helper in your path and then run:
 
